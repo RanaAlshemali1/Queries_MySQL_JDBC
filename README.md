@@ -1,4 +1,4 @@
-# Database Management System: Front-end with pre-defined queries using JDBC and MySQL
+# Database Management System: Front-end with pre-defined queries using JDBC and MySQL | Feb 2018
 Display a  list of predefined SQL queries to the user then display the results according to the user's choice
 
 ## Queries List:
